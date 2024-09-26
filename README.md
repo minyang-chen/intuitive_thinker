@@ -51,7 +51,9 @@ For direct easy to use each mental model has been package on own model package.
 
 ## Installation
 
-clone repo:
+```
+git clone https://github.com/minyang-chen/intuitive_thinker.git
+```
 
 python package only
 ```bash
