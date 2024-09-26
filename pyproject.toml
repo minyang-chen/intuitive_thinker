@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "intuitive_thinker"
+version = "0.1.0"
+description = "Intuitive Thinker improve small language model reasoning by employs mental models for system of thinking, reasoning, structured Chain-of-Thoughts process and thoughtful reflection prior to responding to user queries."
+authors = ["mychen76 <mychen76@gmail.com>"]
+license = "Apache 2.0"
+packages = [{include = "intuitive_thinker"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+ollama = "openai"
+openai = "^1.48.0"
+python-dotenv = "^1.0.1"
+asyncio = "^3.4.3"
+rich = "^13.8.1"
+autopep8 = "^2.3.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[virtualenvs]
+create = true
+in-project = true
