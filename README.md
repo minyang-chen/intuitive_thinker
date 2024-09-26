@@ -22,6 +22,9 @@ System of thinking, reasoning and reflection
 > 4. Iceberg Mental Model
 > 5. Second Order Thinking
 
+## Demo Notebook
+https://github.com/minyang-chen/intuitive_thinker/blob/main/intuitive_thinker_demo.ipynb
+
 ## Available LLM Models
 
 #### Huggingface.co
